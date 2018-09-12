@@ -1,2 +1,3 @@
-Archivo prueba curso GIT
+Archivo prueba curso GIT adición de texto
 linea 2 rama 3
+Nuevo cambio para merge
